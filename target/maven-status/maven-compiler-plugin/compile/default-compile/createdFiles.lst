@@ -1,0 +1,8 @@
+AutomationTutorial\resources\ExtentReporterNG.class
+AutomationTutorial\pageobjects\CartPage.class
+AutomationTutorial\pageobjects\CheckOutPage.class
+AutomationTutorial\pageobjects\ConfirmationPage.class
+AutomationTutorial\AbstractComponents\AbstractComponents.class
+AutomationTutorial\pageobjects\OrderPage.class
+AutomationTutorial\pageobjects\LandingPage.class
+AutomationTutorial\pageobjects\ProductCatalog.class
